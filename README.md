@@ -1,26 +1,23 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
-<div style="flex: 1;">
+  <div style="flex: 1; font-size: 16px; line-height: 1.7;">
+    <h1 style="margin-bottom: 10px;">许骞 / Qian Xu</h1>
+    <p>🎓 中国人民大学 信息学院 博士在读<br>
+       💻 向量数据库 / 系统优化 / 图计算<br>
+       📍 北京, 中国<br>
+       📬 <a href="mailto:xuqianmamba@gmail.com">xuqianmamba@gmail.com</a><br>
+       🔗 <a href="https://github.com/xuqianmamba">GitHub</a>
+    </p>
+  </div>
 
-<h1>许骞 / Qian Xu</h1>
-
-<ul>
-  <li>🎓 中国人民大学 信息学院 博士在读</li>
-  <li>💻 向量数据库 / 系统优化 / 图计算</li>
-  <li>📍 北京, 中国</li>
-  <li>📬 <a href="mailto:xuqianmamba@gmail.com">xuqianmamba@gmail.com</a></li>
-  <li>🔗 <a href="https://github.com/xuqianmamba">GitHub</a></li>
-</ul>
-
-</div>
-
-<div>
-  <img src="https://raw.githubusercontent.com/xuqianmamba/Profile/main/简历照片.jpg" width="140px" style="border-radius: 10px; margin-left: 30px;" />
-</div>
+  <div>
+    <img src="https://raw.githubusercontent.com/xuqianmamba/Profile/main/简历照片.jpg" width="140px" style="border-radius: 10px; margin-left: 30px;" />
+  </div>
 
 </div>
 
 ---
+
 
 
 ## 🧠 简介
