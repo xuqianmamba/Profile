@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUK..." width="160" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/xuqianmamba/xuqianmamba/main/简历照片.jpg" width="160" style="border-radius: 8px;" />
 </p>
+
 
 # 许骞 / Qian Xu
 
