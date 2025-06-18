@@ -43,7 +43,7 @@
 - **SIGMOD 2026 (已中，未发布)**  
   *HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search*  
   提出分布式向量数据库 Harmony，融合向量/维度级划分，结合早期剪枝，实现负载均衡的高吞吐 ANN 查询。  
-  [[代码]](https://github.com/xuqianmamba/Harmony)
+   [[论文链接]](https://arxiv.org/abs/2506.14707) [[代码]](https://github.com/xuqianmamba/Harmony)
 
 ---
 
