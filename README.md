@@ -1,17 +1,24 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xuqianmamba/xuqianmamba/main/简历照片.jpg" width="160" style="border-radius: 8px;" />
-</p>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div>
 
 # 许骞 / Qian Xu
 
-
-
 🎓 中国人民大学 信息学院 博士在读  
-💻 向量数据库 / 系统优化 / 图计算
+💻 向量数据库 / 系统优化 / 图计算  
 📍 北京, 中国  
 📬 [xuqianmamba@gmail.com](mailto:xuqianmamba@gmail.com)  
 🔗 [GitHub](https://github.com/xuqianmamba)
+
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/xuqianmamba/xuqianmamba/main/avatar.jpg" width="160" style="border-radius: 8px;" />
+</div>
+
+</div>
+
 
 ---
 
