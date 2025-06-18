@@ -1,4 +1,3 @@
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
 <div>
@@ -14,10 +13,11 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/xuqianmamba/xuqianmamba/main/avatar.jpg" width="160" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/xuqianmamba/Profile/main/简历照片.jpg" width="160" style="border-radius: 8px;" />
 </div>
 
 </div>
+
 
 
 ---
